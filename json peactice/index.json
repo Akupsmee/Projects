@@ -1,0 +1,40 @@
+[{
+    "  firstName" : "Mike",
+    "lastName" : "Jones",
+    "age"  : 30,
+    "married" : false,
+    "driversLiscence":null,
+    "contactDetails" : {
+        "Address":"35 luisental",
+        "email" :"akupuome@gmail.com" ,
+        "Telephone":5555555
+    },
+
+    "hobbies" : ["cycling", "jogging", "music"],
+    "children" :[{
+        "firstName" : "John",
+        "lastName" : "Jones",
+        "age"  : 6,
+        "married" : false,
+        "driversLiscence":null},
+{
+        "firstName" : "Prince",
+        "lastName" : "Jones",
+        "age"  : 18,
+        "married" : false,
+        "driversLiscence":null
+        },
+            {
+        "firstName" : "Salome",
+        "lastName" : "Jones",
+        "age"  : 5,
+        "married" : false,
+        "driversLiscence":null
+            }
+    ]
+    
+
+},
+
+{}
+]

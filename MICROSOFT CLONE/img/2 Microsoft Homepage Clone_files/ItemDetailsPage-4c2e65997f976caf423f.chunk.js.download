@@ -1,0 +1,1 @@
+((self||this).webpackJsonp=(self||this).webpackJsonp||[]).push([[15],{852:function(e,t,i){"use strict";i.r(t);var p=i(0),s=i.n(p),n=(i(2),i(58)),r=i(437),c=i(13),u=i(18);function a(e){var t=e.itemType,i=Object(n.i)().id;return s()(r.a,{item:{id:i,itemType:t},currentView:c.d.DETAILS})}a.propTypes={itemType:u.c},t.default=a}}]);
